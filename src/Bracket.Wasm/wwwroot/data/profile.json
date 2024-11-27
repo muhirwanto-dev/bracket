@@ -1,0 +1,46 @@
+{
+  "AboutMe": "I embarked on my professional journey as a Junior C++ Game Programmer, dedicating five years to honing my skills in game development. Seeking new challenges, I transitioned into the role of a .NET Software Engineer, specializing in backend development. Today, I thrive as a .NET Full Stack Developer within a dynamic mining company, leveraging my diverse expertise to drive innovation.",
+  "FullName": "Muhammad Irwanto",
+  "Gravatar": "https://gravatar.com/avatar/3a3d91772327edce3a0a8ff4dbd920f4382a646faa2ec392427cf39f00b1ea5c",
+  "NickName": "Irwan",
+  "Role": ".NET Develeoper",
+  "RoleDescription": "I focused on delivering high-quality products through clean, efficient, and scalable code using .NET framework. Let's collaborate to build something truly outstanding!",
+  "SkillSet": [
+    {
+      "Name": ".NET MAUI",
+      "IconPath": "images/ic_code.svg",
+      "Score": 80
+    },
+    {
+      "Name": ".NET Core MVC",
+      "IconPath": "images/ic_code.svg",
+      "Score": 80
+    },
+    {
+      "Name": "Blazor",
+      "IconPath": "images/ic_code.svg",
+      "Score": 80
+    },
+    {
+      "Name": "SQL Server",
+      "IconPath": "images/ic_code.svg",
+      "Score": 80
+    },
+    {
+      "Name": "Entity Framework",
+      "IconPath": "images/ic_code.svg",
+      "Score": 80
+    },
+    {
+      "Name": "Bootstrap",
+      "IconPath": "images/ic_code.svg",
+      "Score": 80
+    },
+    {
+      "Name": "Firebase",
+      "IconPath": "images/ic_code.svg",
+      "Score": 80
+    }
+  ],
+  "TagLine": "I am a passionate and dedicated programmer, skilled in writing clean and efficient code."
+}
